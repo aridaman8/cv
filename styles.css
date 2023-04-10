@@ -1,0 +1,32 @@
+body{
+  background-color: #98DFD6;
+}
+hr{
+background-color:#98DFD6;
+
+border-style: dotted none none;
+height: 0;
+
+border-width:5px;
+width: 8%;
+}
+h1{
+  color:#A61F69;
+}
+
+h3{
+  color:#00337C;
+}
+
+h2{
+  color:#A61F69
+}
+
+h4{
+  color:#00337C;
+}
+img{
+  height: 300px;
+  width: 300px;
+}
+/*comment in css*/
